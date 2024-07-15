@@ -1,7 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(name="EasyChatTemplating",
-      version="0.1",
-      packages=find_packages(),
-      install_requires=[]
-      )
+setup(
+    name="EasyChatTemplating",
+    version="0.1",
+    packages=find_packages(),
+    install_requires=["transformers"],
+)

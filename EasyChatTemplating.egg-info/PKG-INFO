@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: EasyChatTemplating
+Version: 0.1
+Requires-Dist: transformers
